@@ -53,3 +53,7 @@ Human resources and executive leadership require real-time visibility into workf
 
 <img width="1327" height="738" alt="Screenshot 2026-11-07 181057" src="https://github.com/user-attachments/assets/415e19ee-9106-43cc-9a75-e5db255d05b6" />
 <img width="1321" height="738" alt="Screenshot 2026-11-07 181152" src="https://github.com/user-attachments/assets/9bdd252a-7d1e-47e0-b4b6-9aa91b51f6c3" />
+
+
+---
+*Author: Vivek Rajput* 
