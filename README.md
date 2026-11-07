@@ -16,17 +16,17 @@ Human resources and executive leadership require real-time visibility into workf
 * **Microsoft Power BI**: Create Calculated Columns, Measures, Interactive data visualization, Power Query data validation, and custom DAX measure creation (e.g., Attrition Rate %, Average Employee Lifetime Value, Median Salary).
 
 ## Methodology & Workflow
-1. Data Engineering & Cleaning (Python/Pandas)
+### 1. Data Engineering & Cleaning (Python/Pandas)
 * Ingested a 15,000+ row employee record dataset, removed duplicate entries, and addressed missing values in performance review logs.
 
 * Engineered custom features such as Overtime_Frequency_Ratio and Tenure_Bracket to group employees into clear analytical cohorts.
 
-2. Statistical Aggregation (SQL)
+### 2. Statistical Aggregation (SQL)
 * Built an in-memory SQL database to process the cleaned HR data.
 
 * Executed relational queries to compute department-wise attrition benchmarks, comparing compensation percentiles against industry averages to isolate underpaid high-performers.
 
-3. Data Visualization (Power BI)
+### 3. Data Visualization (Power BI)
 * Engineered custom DAX formulas for high-level KPIs (Total Headcount, Overall Attrition Rate %, Average Job Satisfaction).
 
 * Designed an executive layout featuring a Donut Chart for department breakdown and a Scatter Plot mapping Monthly Income against Years at Company, color-coded by attrition status.
